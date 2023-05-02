@@ -1,3 +1,5 @@
+# Linear Seach
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -23,3 +25,4 @@ int linear_search(int arr[], int len, int k) {
     }
     return -1;
 }
+```
